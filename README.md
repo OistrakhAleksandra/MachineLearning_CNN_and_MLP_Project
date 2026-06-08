@@ -1,3 +1,3 @@
 # CIFAR-10 Classification Performance, Interpretability, and Generalization Analysis
 
-This repository contains the complete codebase and implementation details for Assignment 2 in the Artificial Neural Networks course (Semester B, 2026). The project conducts an empirical investigation into how distinct neural network architectures—specifically Multi-Layer Perceptrons (MLPs), Convolutional Neural Networks (CNNs), and custom Hybrid topologies—impact optimization stability, parameter efficiency, interpretability, and generalization.
+This repository contains the complete codebase and implementation details for Assignment 2 in the Artificial Neural Networks course. The project conducts an empirical investigation into how distinct neural network architectures—specifically Multi-Layer Perceptrons (MLPs), Convolutional Neural Networks (CNNs), and custom Hybrid topologies—impact optimization stability, parameter efficiency, interpretability, and generalization.
