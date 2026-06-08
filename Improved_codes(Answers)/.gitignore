@@ -16,6 +16,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-Improved_codes(Answers)/data/
+cifar-10-batches-py/
+data/
+**/cifar-10-batches-py/
+**/data/
 *.tar.gz
-.idea/
