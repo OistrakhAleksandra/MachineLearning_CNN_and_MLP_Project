@@ -12,4 +12,4 @@ You can find the codes for all the improved/upgraded/changed models in "Impoved_
 
 You can find the *original model code* in the Instructions folder in "Project_#2_Original_Code" notebook file.
 
-All the instructionf for the projects and the task are present in the Instructions folder.
+All the instructions for the projects and the task are present in the Instructions folder.
